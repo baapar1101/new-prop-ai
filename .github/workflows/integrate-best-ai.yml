@@ -1,0 +1,40 @@
+name: Integrate best_ai
+
+on:
+  push:
+    branches:
+      - integrate-best-ai
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    if: ${{ !contains(github.event.head_commit.message, 'Automated integration from best_ai') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Merge best_ai
+        run: |
+          git remote add best-ai https://github.com/baapar1101/best_ai.git
+          git fetch best-ai main
+          git merge best-ai/main --allow-unrelated-histories -X theirs -m "Integrate best_ai into integrate-best-ai"
+
+      - name: Remove temporary workflow
+        run: |
+          rm -f .github/workflows/integrate-best-ai.yml
+          git add -A
+          git commit -m "Automated integration from best_ai" || true
+
+      - name: Push integration
+        run: git push origin integrate-best-ai
