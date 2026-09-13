@@ -1,6 +1,7 @@
 name: Fix Jekyll Front Matter
 on:
-  workflow_dispatch:
+  push:
+    branches: [integrate-best-ai]
 jobs:
   fix:
     runs-on: ubuntu-latest
