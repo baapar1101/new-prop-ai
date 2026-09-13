@@ -2,10 +2,7 @@
 slug: allowlist-denylist
 section: Antigravity IDE
 title: Allowlist / Denylist
-path:
-  - Antigravity IDE
-  - Browser
-  - Allowlist / Denylist
+path: Antigravity IDE / Browser / Allowlist / Denylist
 ---
 
 # Allowlist / Denylist

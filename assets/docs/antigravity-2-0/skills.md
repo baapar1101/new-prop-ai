@@ -2,10 +2,7 @@
 slug: skills
 section: Antigravity 2.0
 title: Skills
-path:
-  - Antigravity 2.0
-  - Customizations
-  - Skills
+path: Antigravity 2.0 / Customizations / Skills
 ---
 
 # Agent Skills

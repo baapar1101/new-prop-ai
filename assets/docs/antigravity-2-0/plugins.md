@@ -2,10 +2,7 @@
 slug: plugins
 section: Antigravity 2.0
 title: Plugins
-path:
-  - Antigravity 2.0
-  - Customizations
-  - Plugins
+path: Antigravity 2.0 / Customizations / Plugins
 ---
 
 # Plugins

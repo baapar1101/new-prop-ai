@@ -2,9 +2,7 @@
 slug: cli-tutorial
 section: Antigravity CLI
 title: Tutorial
-path:
-- Antigravity CLI
-- Tutorial
+path: Antigravity CLI / Tutorial
 ---
 
 

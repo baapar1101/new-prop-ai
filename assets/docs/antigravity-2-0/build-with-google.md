@@ -2,9 +2,7 @@
 slug: build-with-google
 section: Antigravity 2.0
 title: Build with Google
-path:
-  - Antigravity 2.0
-  - Build with Google
+path: Antigravity 2.0 / Build with Google
 ---
 
 # Build with Google

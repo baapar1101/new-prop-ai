@@ -2,9 +2,7 @@
 slug: getting-started
 section: Antigravity 2.0
 title: Getting Started
-path:
-  - Antigravity 2.0
-  - Getting Started
+path: Antigravity 2.0 / Getting Started
 ---
 
 # Getting Started with Antigravity 2.0

@@ -2,10 +2,7 @@
 slug: review-changes-editor
 section: Antigravity IDE
 title: Review Changes
-path:
-  - Antigravity IDE
-  - Features
-  - Review Changes
+path: Antigravity IDE / Features / Review Changes
 ---
 
 # Review Changes

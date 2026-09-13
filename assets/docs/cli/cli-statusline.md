@@ -2,10 +2,7 @@
 slug: cli-statusline
 section: Antigravity CLI
 title: Status Line Customization
-path:
-  - Antigravity CLI
-  - Customizations
-  - Status Line
+path: Antigravity CLI / Customizations / Status Line
 ---
 
 # Status line customization

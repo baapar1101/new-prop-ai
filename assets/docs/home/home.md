@@ -2,8 +2,7 @@
 slug: home
 section: Home
 title: Home
-path:
-  - Home
+path: Home
 ---
 
 # Welcome to Google Antigravity

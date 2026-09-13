@@ -2,9 +2,7 @@
 slug: features
 section: Antigravity 2.0
 title: Feature Overview
-path:
-  - Antigravity 2.0
-  - Feature Overview
+path: Antigravity 2.0 / Feature Overview
 ---
 
 # Antigravity 2.0 Features

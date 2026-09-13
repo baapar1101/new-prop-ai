@@ -2,10 +2,7 @@
 slug: cli-permissions
 section: Antigravity CLI
 title: Permissions
-path:
-  - Antigravity CLI
-  - Agent Capabilities
-  - Permissions
+path: Antigravity CLI / Agent Capabilities / Permissions
 ---
 
 # Permissions

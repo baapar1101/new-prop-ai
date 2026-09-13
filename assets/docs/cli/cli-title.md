@@ -2,10 +2,7 @@
 slug: cli-title
 section: Antigravity CLI
 title: Terminal Title Customization
-path:
-  - Antigravity CLI
-  - Customizations
-  - Window Title
+path: Antigravity CLI / Customizations / Window Title
 ---
 
 # Terminal title customization

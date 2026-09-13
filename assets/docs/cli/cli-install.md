@@ -2,9 +2,7 @@
 slug: cli-install
 section: Antigravity CLI
 title: Installation & Auth
-path:
-  - Antigravity CLI
-  - Installation & Auth
+path: Antigravity CLI / Installation & Auth
 ---
 
 # Installation & auth

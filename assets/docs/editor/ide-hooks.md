@@ -2,10 +2,7 @@
 slug: ide-hooks
 section: Antigravity IDE
 title: Hooks
-path:
-  - Antigravity IDE
-  - Customizations
-  - Hooks
+path: Antigravity IDE / Customizations / Hooks
 ---
 
 # Hooks

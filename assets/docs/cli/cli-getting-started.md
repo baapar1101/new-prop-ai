@@ -2,9 +2,7 @@
 slug: cli-getting-started
 section: Antigravity CLI
 title: Getting Started
-path:
-  - Antigravity CLI
-  - Getting Started
+path: Antigravity CLI / Getting Started
 ---
 
 # Getting Started with Antigravity CLI

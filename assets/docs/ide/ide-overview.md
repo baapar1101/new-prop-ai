@@ -2,9 +2,7 @@
 slug: ide-overview
 section: Antigravity IDE
 title: Overview
-path:
-  - Antigravity IDE
-  - Overview
+path: Antigravity IDE / Overview
 ---
 
 # Antigravity IDE

@@ -2,10 +2,7 @@
 slug: implementation-plan
 section: Antigravity 2.0
 title: Plan
-path:
-  - Antigravity 2.0
-  - Artifacts
-  - Plan
+path: Antigravity 2.0 / Artifacts / Plan
 ---
 
 # Implementation Plan

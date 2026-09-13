@@ -2,9 +2,7 @@
 slug: ide-getting-started
 section: Antigravity IDE
 title: Getting Started
-path:
-  - Antigravity IDE
-  - Getting Started
+path: Antigravity IDE / Getting Started
 ---
 
 # Getting Started

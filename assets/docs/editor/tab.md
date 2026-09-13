@@ -2,10 +2,7 @@
 slug: tab
 section: Antigravity IDE
 title: Tab
-path:
-  - Antigravity IDE
-  - Features
-  - Tab
+path: Antigravity IDE / Features / Tab
 ---
 
 # Antigravity IDE: Tab & Navigation

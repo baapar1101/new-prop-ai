@@ -2,10 +2,7 @@
 slug: ide-walkthrough
 section: Antigravity IDE
 title: Walkthrough
-path:
-  - Antigravity IDE
-  - Artifacts
-  - Walkthrough
+path: Antigravity IDE / Artifacts / Walkthrough
 ---
 
 # Walkthrough

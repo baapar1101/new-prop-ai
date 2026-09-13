@@ -2,10 +2,7 @@
 slug: ide-screenshots
 section: Antigravity IDE
 title: Screenshots
-path:
-  - Antigravity IDE
-  - Artifacts
-  - Screenshots
+path: Antigravity IDE / Artifacts / Screenshots
 ---
 
 # Screenshots

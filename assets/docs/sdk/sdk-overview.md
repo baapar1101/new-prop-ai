@@ -2,9 +2,7 @@
 slug: sdk-overview
 section: Antigravity SDK
 title: Overview + Quick Start
-path:
-  - Antigravity SDK
-  - Overview + Quick Start
+path: Antigravity SDK / Overview + Quick Start
 ---
 
 # Google Antigravity SDK

@@ -2,9 +2,7 @@
 slug: cli-credits
 section: Antigravity CLI
 title: AI Credits
-path:
-- Antigravity CLI
-- AI Credits
+path: Antigravity CLI / AI Credits
 ---
 
 # Managing AI Credits & Quotas

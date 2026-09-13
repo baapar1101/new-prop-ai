@@ -2,10 +2,7 @@
 slug: cli-artifacts
 section: Antigravity CLI
 title: Reviewing Artifacts
-path:
-  - Antigravity CLI
-  - Artifacts
-  - Overview
+path: Antigravity CLI / Artifacts / Overview
 ---
 
 # Reviewing artifacts

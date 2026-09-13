@@ -2,10 +2,7 @@
 slug: ide-implementation-plan
 section: Antigravity IDE
 title: Plan
-path:
-  - Antigravity IDE
-  - Artifacts
-  - Plan
+path: Antigravity IDE / Artifacts / Plan
 ---
 
 # Implementation Plan

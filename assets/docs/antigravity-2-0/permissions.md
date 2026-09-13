@@ -2,10 +2,7 @@
 slug: permissions
 section: Antigravity 2.0
 title: Permissions
-path:
-  - Antigravity 2.0
-  - Agent Capabilities
-  - Permissions
+path: Antigravity 2.0 / Agent Capabilities / Permissions
 ---
 
 # Agent Permissions

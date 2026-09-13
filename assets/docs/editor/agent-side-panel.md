@@ -2,10 +2,7 @@
 slug: agent-side-panel
 section: Antigravity IDE
 title: Side Panel
-path:
-  - Antigravity IDE
-  - Features
-  - Side Panel
+path: Antigravity IDE / Features / Side Panel
 ---
 
 # Agent Side Panel

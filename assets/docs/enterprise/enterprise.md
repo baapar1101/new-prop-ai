@@ -2,8 +2,7 @@
 slug: enterprise
 section: Enterprise
 title: Enterprise
-path:
-  - Enterprise
+path: Enterprise
 ---
 
 # Getting Started with Antigravity and Gemini Enterprise Agent Platform

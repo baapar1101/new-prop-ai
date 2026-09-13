@@ -2,10 +2,7 @@
 slug: mcp
 section: Antigravity 2.0
 title: MCP
-path:
-  - Antigravity 2.0
-  - Customizations
-  - MCP
+path: Antigravity 2.0 / Customizations / MCP
 ---
 
 # Antigravity Editor: MCP Integration

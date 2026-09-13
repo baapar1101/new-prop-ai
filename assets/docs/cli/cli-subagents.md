@@ -2,10 +2,7 @@
 slug: cli-subagents
 section: Antigravity CLI
 title: Background Tasks & Subagents
-path:
-- Antigravity CLI
-- Agent Capabilities
-- Subagents
+path: Antigravity CLI / Agent Capabilities / Subagents
 ---
 
 

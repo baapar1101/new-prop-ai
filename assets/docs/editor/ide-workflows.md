@@ -2,10 +2,7 @@
 slug: ide-workflows
 section: Antigravity IDE
 title: Workflows
-path:
-  - Antigravity IDE
-  - Customizations
-  - Workflows
+path: Antigravity IDE / Customizations / Workflows
 ---
 
 # Workflows

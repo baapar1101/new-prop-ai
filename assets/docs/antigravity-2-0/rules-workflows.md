@@ -2,10 +2,7 @@
 slug: rules-workflows
 section: Antigravity 2.0
 title: Rules
-path:
-  - Antigravity 2.0
-  - Customizations
-  - Rules
+path: Antigravity 2.0 / Customizations / Rules
 ---
 
 # Rules

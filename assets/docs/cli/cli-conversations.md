@@ -2,9 +2,7 @@
 slug: cli-conversations
 section: Antigravity CLI
 title: Managing Conversations
-path:
-  - Antigravity CLI
-  - Conversations
+path: Antigravity CLI / Conversations
 ---
 
 # Managing conversations

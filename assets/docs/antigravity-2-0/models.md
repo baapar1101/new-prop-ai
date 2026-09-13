@@ -2,9 +2,7 @@
 slug: models
 section: Antigravity 2.0
 title: Models
-path:
-  - Antigravity 2.0
-  - Models
+path: Antigravity 2.0 / Models
 ---
 
 # Models

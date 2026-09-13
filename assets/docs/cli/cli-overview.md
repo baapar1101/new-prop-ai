@@ -2,9 +2,7 @@
 slug: cli-overview
 section: Antigravity CLI
 title: Overview
-path:
-- Antigravity CLI
-- Overview
+path: Antigravity CLI / Overview
 ---
 
 

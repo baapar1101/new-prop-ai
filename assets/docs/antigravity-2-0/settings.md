@@ -2,10 +2,7 @@
 slug: settings
 section: Antigravity 2.0
 title: Overview
-path:
-  - Antigravity 2.0
-  - Settings
-  - Overview
+path: Antigravity 2.0 / Settings / Overview
 ---
 
 # Settings

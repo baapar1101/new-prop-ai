@@ -2,8 +2,7 @@
 slug: plans
 section: Plans
 title: Plans
-path:
-  - Plans
+path: Plans
 ---
 
 # Plans

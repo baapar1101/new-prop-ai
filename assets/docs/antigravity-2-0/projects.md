@@ -2,9 +2,7 @@
 slug: projects
 section: Antigravity 2.0
 title: Projects
-path:
-  - Antigravity 2.0
-  - Projects
+path: Antigravity 2.0 / Projects
 ---
 
 # Projects

@@ -2,10 +2,7 @@
 slug: subagents
 section: Antigravity 2.0
 title: Subagents
-path:
-  - Antigravity 2.0
-  - Agent Capabilities
-  - Subagents
+path: Antigravity 2.0 / Agent Capabilities / Subagents
 ---
 
 # Asynchronous Subagents

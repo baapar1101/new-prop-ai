@@ -2,9 +2,7 @@
 title: Firebase Studio Migration
 slug: firebase-studio-migration
 section: Migration
-path:
-  - Migration
-  - Firebase Studio Migration
+path: Migration / Firebase Studio Migration
 ---
 
 # Firebase Studio Migration

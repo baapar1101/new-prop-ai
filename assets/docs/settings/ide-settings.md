@@ -2,9 +2,7 @@
 slug: ide-settings
 section: Antigravity IDE
 title: Settings
-path:
-  - Antigravity IDE
-  - Settings
+path: Antigravity IDE / Settings
 ---
 
 # Settings

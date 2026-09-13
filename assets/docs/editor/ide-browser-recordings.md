@@ -2,10 +2,7 @@
 slug: ide-browser-recordings
 section: Antigravity IDE
 title: Browser Recordings
-path:
-  - Antigravity IDE
-  - Artifacts
-  - Browser Recordings
+path: Antigravity IDE / Artifacts / Browser Recordings
 ---
 
 # Browser Recordings

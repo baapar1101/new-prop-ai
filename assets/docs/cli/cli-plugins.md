@@ -2,10 +2,7 @@
 slug: cli-plugins
 section: Antigravity CLI
 title: Plugins & Skills
-path:
-- Antigravity CLI
-- Customizations
-- Plugins & Skills
+path: Antigravity CLI / Customizations / Plugins & Skills
 ---
 
 

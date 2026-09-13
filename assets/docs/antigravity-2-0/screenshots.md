@@ -2,10 +2,7 @@
 slug: screenshots
 section: Antigravity 2.0
 title: Screenshots
-path:
-  - Antigravity 2.0
-  - Artifacts
-  - Screenshots
+path: Antigravity 2.0 / Artifacts / Screenshots
 ---
 
 # Screenshots

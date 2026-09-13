@@ -2,10 +2,7 @@
 slug: ide-skills
 section: Antigravity IDE
 title: Skills
-path:
-  - Antigravity IDE
-  - Customizations
-  - Skills
+path: Antigravity IDE / Customizations / Skills
 ---
 
 # Agent Skills

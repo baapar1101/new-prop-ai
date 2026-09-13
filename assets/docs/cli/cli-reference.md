@@ -2,9 +2,7 @@
 slug: cli-reference
 section: Antigravity CLI
 title: CLI Reference
-path:
-  - Antigravity CLI
-  - Reference
+path: Antigravity CLI / Reference
 ---
 
 # CLI reference

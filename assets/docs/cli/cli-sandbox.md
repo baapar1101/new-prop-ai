@@ -2,10 +2,7 @@
 slug: cli-sandbox
 section: Antigravity CLI
 title: Sandbox
-path:
-  - Antigravity CLI
-  - Agent Capabilities
-  - Sandbox
+path: Antigravity CLI / Agent Capabilities / Sandbox
 ---
 
 # Sandbox

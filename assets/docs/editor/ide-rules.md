@@ -2,10 +2,7 @@
 slug: ide-rules
 section: Antigravity IDE
 title: Rules
-path:
-  - Antigravity IDE
-  - Customizations
-  - Rules
+path: Antigravity IDE / Customizations / Rules
 ---
 
 # Rules

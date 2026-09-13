@@ -2,10 +2,7 @@
 slug: artifacts
 section: Antigravity 2.0
 title: Overview
-path:
-  - Antigravity 2.0
-  - Artifacts
-  - Overview
+path: Antigravity 2.0 / Artifacts / Overview
 ---
 
 # Artifacts

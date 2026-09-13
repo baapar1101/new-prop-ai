@@ -2,9 +2,7 @@
 slug: overview
 section: Antigravity 2.0
 title: Overview
-path:
-  - Antigravity 2.0
-  - Overview
+path: Antigravity 2.0 / Overview
 ---
 
 # Antigravity 2.0

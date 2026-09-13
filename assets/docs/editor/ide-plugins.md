@@ -2,10 +2,7 @@
 slug: ide-plugins
 section: Antigravity IDE
 title: Plugins
-path:
-  - Antigravity IDE
-  - Customizations
-  - Plugins
+path: Antigravity IDE / Customizations / Plugins
 ---
 
 # Plugins

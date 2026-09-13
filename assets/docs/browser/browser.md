@@ -2,10 +2,7 @@
 slug: browser
 section: Antigravity IDE
 title: Overview
-path:
-  - Antigravity IDE
-  - Browser
-  - Overview
+path: Antigravity IDE / Browser / Overview
 ---
 
 # Browser Overview

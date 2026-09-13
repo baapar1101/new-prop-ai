@@ -2,10 +2,7 @@
 slug: cli-settings
 section: Antigravity CLI
 title: Settings, Rendering & Keybindings
-path:
-  - Antigravity CLI
-  - Settings
-  - Overview
+path: Antigravity CLI / Settings / Overview
 ---
 
 # Settings, rendering & keybindings

@@ -2,9 +2,7 @@
 slug: cli-prompting
 section: Antigravity CLI
 title: Prompting & Interaction
-path:
-  - Antigravity CLI
-  - Prompting
+path: Antigravity CLI / Prompting
 ---
 
 # Prompting & interaction

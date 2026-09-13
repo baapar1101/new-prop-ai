@@ -2,10 +2,7 @@
 slug: walkthrough
 section: Antigravity 2.0
 title: Walkthrough
-path:
-  - Antigravity 2.0
-  - Artifacts
-  - Walkthrough
+path: Antigravity 2.0 / Artifacts / Walkthrough
 ---
 
 # Walkthrough

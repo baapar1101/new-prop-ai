@@ -2,10 +2,7 @@
 slug: ide-mcp
 section: Antigravity IDE
 title: MCP
-path:
-  - Antigravity IDE
-  - Customizations
-  - MCP
+path: Antigravity IDE / Customizations / MCP
 ---
 
 # Antigravity Editor: MCP Integration

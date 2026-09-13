@@ -2,10 +2,7 @@
 slug: separate-chrome-profile
 section: Antigravity IDE
 title: Separate Chrome Profile
-path:
-  - Antigravity IDE
-  - Browser
-  - Separate Chrome Profile
+path: Antigravity IDE / Browser / Separate Chrome Profile
 ---
 
 # Separate Chrome Profile

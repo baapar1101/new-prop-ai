@@ -2,9 +2,7 @@
 slug: cli-troubleshooting
 section: Antigravity CLI
 title: Troubleshooting
-path:
-  - Antigravity CLI
-  - Troubleshooting
+path: Antigravity CLI / Troubleshooting
 ---
 
 # Troubleshooting

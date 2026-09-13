@@ -2,10 +2,7 @@
 slug: artifact-review
 section: Antigravity 2.0
 title: Artifact Review
-path:
-  - Antigravity 2.0
-  - Settings
-  - Artifact Review
+path: Antigravity 2.0 / Settings / Artifact Review
 ---
 
 # Artifact Review

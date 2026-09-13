@@ -2,10 +2,7 @@
 slug: agent-settings
 section: Antigravity 2.0
 title: Agent Settings
-path:
-  - Antigravity 2.0
-  - Settings
-  - Agent Settings
+path: Antigravity 2.0 / Settings / Agent Settings
 ---
 
 # Agent Settings

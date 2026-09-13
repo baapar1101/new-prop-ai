@@ -2,9 +2,7 @@
 slug: cli-features
 section: Antigravity CLI
 title: Features
-path:
-- Antigravity CLI
-- Features
+path: Antigravity CLI / Features
 ---
 
 

@@ -2,9 +2,7 @@
 slug: cli-best-practices
 section: Antigravity CLI
 title: Best Practices
-path:
-- Antigravity CLI
-- Best Practices
+path: Antigravity CLI / Best Practices
 ---
 
 

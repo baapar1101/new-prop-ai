@@ -2,10 +2,7 @@
 slug: hooks
 section: Antigravity 2.0
 title: Hooks
-path:
-  - Antigravity 2.0
-  - Customizations
-  - Hooks
+path: Antigravity 2.0 / Customizations / Hooks
 ---
 
 # Hooks

@@ -2,9 +2,7 @@
 slug: cli-using
 section: Antigravity CLI
 title: Using AGY CLI
-path:
-- Antigravity CLI
-- Using AGY CLI
+path: Antigravity CLI / Using AGY CLI
 ---
 
 

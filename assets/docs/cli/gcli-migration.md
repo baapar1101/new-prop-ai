@@ -2,9 +2,7 @@
 slug: gcli-migration
 section: Antigravity CLI
 title: Migration
-path:
-- Antigravity CLI
-- Gemini Migration
+path: Antigravity CLI / Gemini Migration
 ---
 
 

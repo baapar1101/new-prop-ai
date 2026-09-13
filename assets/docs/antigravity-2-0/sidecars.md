@@ -2,10 +2,7 @@
 slug: sidecars
 section: Antigravity 2.0
 title: Sidecars
-path:
-  - Antigravity 2.0
-  - Customizations
-  - Sidecars
+path: Antigravity 2.0 / Customizations / Sidecars
 ---
 
 # Sidecars

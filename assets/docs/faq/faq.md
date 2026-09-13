@@ -2,8 +2,7 @@
 slug: faq
 section: FAQ
 title: FAQ
-path:
-  - FAQ
+path: FAQ
 ---
 
 # FAQ
