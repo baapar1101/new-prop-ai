@@ -8,9 +8,9 @@
   const replacements = [
     ['Google Antigravity', 'پراپ'],
     ['Antigravity', 'پراپ'],
-    ['Build the new way', 'راهکارهای هوش مصنوعی نسل بعدی'],
+    ['Build the new way', 'راهکارهای هوش مصنوعی برای کسب‌وکارهای آینده‌نگر'],
     ['Build with Google', 'راهکارهای هوش مصنوعی'],
-    ['The future of coding', 'آینده کسب‌وکار با هوش مصنوعی'],
+    ['The future of coding', 'کسب‌وکار خود را با هوش مصنوعی متحول کنید'],
     ['Get started', 'شروع رایگان'],
     ['Get Started', 'شروع رایگان'],
     ['Start building', 'شروع رایگان'],
@@ -40,9 +40,7 @@
 
   function replaceText(value) {
     let out = value;
-    for (const pair of replacements) {
-      out = out.split(pair[0]).join(pair[1]);
-    }
+    for (const pair of replacements) out = out.split(pair[0]).join(pair[1]);
     return out;
   }
 
@@ -59,12 +57,13 @@
   }
 
   function tuneMeta() {
+    const description = 'پراپ با ارائه ابزارهای پیشرفته هوش مصنوعی، به شما کمک می‌کند فرآیندها را خودکارسازی کنید، بینش‌های ارزشمند به دست آورید و رشد پایدار داشته باشید.';
     const desc = document.querySelector('meta[name="description"]');
-    if (desc) desc.setAttribute('content', 'پراپ با ارائه ابزارهای پیشرفته هوش مصنوعی، به شما کمک می‌کند فرآیندها را خودکارسازی کنید، بینش‌های ارزشمند به دست آورید و رشد پایدار داشته باشید.');
+    if (desc) desc.setAttribute('content', description);
     const ogTitle = document.querySelector('meta[property="og:title"]');
     if (ogTitle) ogTitle.setAttribute('content', 'پراپ — راهکارهای هوش مصنوعی');
     const ogDesc = document.querySelector('meta[property="og:description"]');
-    if (ogDesc) ogDesc.setAttribute('content', 'پراپ با ارائه ابزارهای پیشرفته هوش مصنوعی، به شما کمک می‌کند فرآیندها را خودکارسازی کنید، بینش‌های ارزشمند به دست آورید و رشد پایدار داشته باشید.');
+    if (ogDesc) ogDesc.setAttribute('content', description);
   }
 
   function run() {
@@ -72,7 +71,7 @@
     tuneMeta();
   }
 
-  const observer = new MutationObserver(() => run());
+  const observer = new MutationObserver(run);
   observer.observe(document.documentElement, { childList: true, subtree: true, characterData: true });
   document.addEventListener('DOMContentLoaded', run);
   setTimeout(run, 250);
