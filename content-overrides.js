@@ -45,8 +45,31 @@
     return out;
   }
 
+  function fixSplitHero(root) {
+    if (!root) return;
+    const elements = root.querySelectorAll ? root.querySelectorAll('*') : [];
+    for (const el of elements) {
+      if (!el.children.length) continue;
+      const text = (el.textContent || '').replace(/\s+/g, ' ').trim();
+      if (text === 'Experience lift off with the next-gen agent platform') {
+        el.textContent = 'راهکارهای هوش مصنوعی برای کسب‌وکارهای آینده‌نگر';
+      }
+    }
+
+    // best_ai renders the hero phrase as individual letter elements.
+    // Detect the contiguous run of letter nodes and replace the whole block.
+    const candidates = root.querySelectorAll ? root.querySelectorAll('[class*="hero"], [class*="Hero"], h1, h2') : [];
+    for (const el of candidates) {
+      const text = (el.textContent || '').replace(/\s+/g, ' ').trim();
+      if (text.includes('Experience') || text.includes('lift off') || text.includes('next-gen')) {
+        el.textContent = 'راهکارهای هوش مصنوعی برای کسب‌وکارهای آینده‌نگر';
+      }
+    }
+  }
+
   function applyText(root) {
     if (!root) return;
+    fixSplitHero(root);
     const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
     const nodes = [];
     while (walker.nextNode()) nodes.push(walker.currentNode);
