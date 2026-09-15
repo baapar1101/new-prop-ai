@@ -9,6 +9,7 @@
     ['Google Antigravity', 'پراپ'],
     ['Antigravity', 'پراپ'],
     ['Build the new way', 'راهکارهای هوش مصنوعی برای کسب‌وکارهای آینده‌نگر'],
+    ['Experience lift off with the next-gen agent platform', 'راهکارهای هوش مصنوعی برای کسب‌وکارهای آینده‌نگر'],
     ['Build with Google', 'راهکارهای هوش مصنوعی'],
     ['The future of coding', 'کسب‌وکار خود را با هوش مصنوعی متحول کنید'],
     ['Get started', 'شروع رایگان'],
